@@ -7,7 +7,7 @@ export default function Home() {
       <SEO />
       <header><h1>This is a header</h1></header>
       <main className="main">
-        <h2>There is more to come :)</h2>
+        <h2 className='text-3xl font-bold underline'>There is more to come :)</h2>
       </main>
       <Footer />
     </>
