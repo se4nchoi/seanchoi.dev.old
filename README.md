@@ -1,3 +1,2 @@
-## Personal Portfolio
-
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+# seanchoi.dev
+## Personal Portfolio and Blog
