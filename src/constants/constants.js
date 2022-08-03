@@ -16,7 +16,7 @@ export const projects = [
       tags: ['CSS', 'jQuery', 'Spring', 'PSQL', 'REST API'],
     retro: '#',
     code: 'https://github.com/yehyunchoi',
-    visit: 'http://118.45.187.140:8383/challenge-monitor/',
+    visit: 'http://118.45.190.141:8383/challenge-monitor/',
     id: 1,
   },
   {
@@ -26,7 +26,7 @@ export const projects = [
       tags: ['React', 'CSS', 'PWA', 'PSQL', 'REST API'],
     retro: '#',
     code: 'https://github.com/yehyunchoi',
-    visit: '',
+    visit: 'https://user.ruta40.co.kr:9443',
     id: 2,
   },
 ];
